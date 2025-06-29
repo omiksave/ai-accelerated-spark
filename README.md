@@ -26,14 +26,5 @@ A comprehensive Retrieval-Augmented Generation (RAG) system specifically designe
 - Document exclusion to prevent repetitive retrievals
 
 ## 🛠️ System Architecture
-```mermaid
-flowchart TD
-    A[User Question] --> B[Document Retrieval]
-    B --> C[Response Grading]
-    C --> D[Generate Answer]
-    D --> E[Hallucination Check]
-    E --> F[Answer Quality Check]
-    F --> G[Final Response]
-
-    E[Regenerate] -.->|If failed| B
-    F[Regenerate] -.->|If failed| B
+![RAG Workflow](workflow_visualization
+.png)
