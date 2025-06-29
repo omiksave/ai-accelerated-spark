@@ -26,5 +26,4 @@ A comprehensive Retrieval-Augmented Generation (RAG) system specifically designe
 - Document exclusion to prevent repetitive retrievals
 
 ## 🛠️ System Architecture
-![RAG Workflow](workflow_visualization
-.png)
+![RAG Workflow](workflow_visualization.png)
