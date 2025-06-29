@@ -2,7 +2,7 @@
 
 A comprehensive Retrieval-Augmented Generation (RAG) system specifically designed for GPU-accelerated data science education. The system combines web documentation, Jupyter notebooks, and Python code examples to provide accurate, well-cited responses about CUDA programming, RAPIDS, PyTorch, TensorFlow, and other GPU computing frameworks.
 
-**Contributors**:  
+## 🤝 Contributors  
 [⚙️ Soham Sarkar](mailto:ssarka30@asu.edu)<sup>1</sup>,  [⚙️ Omik Save](mailto:osave@asu.edu)<sup>2</sup>,  [📁 Arjun Shilamkoti](mailto:ashilamk@asu.edu)<sup>3</sup>  
 
 <sup>1</sup> Developer, School of Electrical, Computer and Energy Engineering, Arizona State University  
