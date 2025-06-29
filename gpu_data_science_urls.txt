@@ -1,0 +1,100 @@
+name,category,url
+RAPIDS CuML GitHub Repository,CuML,https://github.com/rapidsai/cuml
+RAPIDS CuML Documentation,CuML,https://docs.rapids.ai/api/cuml/stable/
+RAPIDS CuDF GitHub Repository,CuDF,https://github.com/rapidsai/cudf
+NVIDIA RAPIDS Tutorial GPU Accelerated Data Processing,RAPIDS,https://www.exxactcorp.com/blog/Deep-Learning/nvidia-rapids-tutorial
+RAPIDS cuDF for accelerated data science on Google Colab,CuDF,https://colab.google/articles/cudf
+NVIDIA cuML Zero Code Change Acceleration to scikit-learn,CuML,https://developer.nvidia.com/blog/nvidia-cuml-brings-zero-code-change-acceleration-to-scikit-learn/
+Installing cuDF cuML into Colab Stack Overflow,Installation,https://stackoverflow.com/questions/60188071/installing-cudf-cuml-into-colab-with-rapids-ai-version-0-11
+What is cuML and how to use it on Google Colab,CuML,https://inside-machinelearning.com/en/cuml-tutorial-colab/
+cuML Blazing Fast Machine Learning Model Training with RAPIDS,CuML,https://www.analyticsvidhya.com/blog/2022/01/cuml-blazing-fast-machine-learning-model-training-with-nvidias-rapids/
+RAPIDS Official Website,RAPIDS,https://rapids.ai/
+RAPIDS CuGraph GitHub Repository,CuGraph,https://github.com/rapidsai/cugraph
+CuGraph Documentation,CuGraph,https://docs.rapids.ai/api/cugraph/stable/
+PyTorch Geometric interface with CuGraph GitHub Issue,CuGraph,https://github.com/rapidsai/cugraph/issues/1200
+PyTorch Geometric CuGraph GAT Conv Documentation,CuGraph,https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/nn/conv/cugraph/gat_conv.html
+RAPIDS CuSpatial GitHub Repository,CuSpatial,https://github.com/rapidsai/cuspatial
+CuSpatial Python Users Guide,CuSpatial,https://docs.rapids.ai/api/cuspatial/stable/user_guide/cuspatial_api_examples/
+RAPIDS User Guides,RAPIDS,https://docs.rapids.ai/user-guide/
+CuSpatial Documentation,CuSpatial,https://docs.rapids.ai/api/cuspatial/stable/
+CuSpatial PyPI Package,CuSpatial,https://pypi.org/project/cuspatial-cu11/
+RAPIDS RC Learning Portal,RAPIDS,https://learning.rc.virginia.edu/notes/rapids/
+Learning PyTorch with Examples Official Documentation,PyTorch,https://docs.pytorch.org/tutorials/beginner/pytorch_with_examples.html
+PyTorch Tutorials Welcome Page,PyTorch,https://docs.pytorch.org/tutorials/
+Learn the Basics PyTorch Tutorial,PyTorch,https://docs.pytorch.org/tutorials/beginner/basics/intro.html
+PyTorch-BigGraph for Large-scale Graph Embeddings,PyTorch,https://github.com/facebookresearch/PyTorch-BigGraph
+PyTorch Tutorial GeeksforGeeks,PyTorch,https://www.geeksforgeeks.org/deep-learning/pytorch-learn-with-examples/
+TensorFlow Framework GPU Acceleration from NVIDIA,TensorFlow,https://www.nvidia.com/en-sg/data-center/gpu-accelerated-applications/tensorflow/
+Use a GPU TensorFlow Core Official Guide,TensorFlow,https://www.tensorflow.org/guide/gpu
+TensorFlow single GPU example GitHub Gist,TensorFlow,https://gist.github.com/j-min/baae1aa56e861cab9831b3722755ae6d
+How do I use TensorFlow GPU Stack Overflow,TensorFlow,https://stackoverflow.com/questions/51306862/how-do-i-use-tensorflow-gpu
+How to use CUDA and the GPU Version of Tensorflow,TensorFlow,https://pythonprogramming.net/how-to-cuda-gpu-tensorflow-deep-learning-tutorial/
+Installing TensorFlow 2 GPU Step-by-Step Guide,TensorFlow,https://neptune.ai/blog/installing-tensorflow-2-gpu-guide
+Using a GPU with TensorFlow Databricks,TensorFlow,https://www.databricks.com/tensorflow/using-a-gpu
+Tensorflow MNiST GPU Tutorial Kaggle,TensorFlow,https://www.kaggle.com/code/hassanamin/tensorflow-mnist-gpu-tutorial
+TensorFlow GPU Basic Operations Multi-GPU Setup Guide,TensorFlow,https://acecloud.ai/resources/blog/tensorflow-gpu/
+Install TensorFlow with pip Official Guide,TensorFlow,https://www.tensorflow.org/install/pip
+RAPIDS CuXfilter GitHub Repository,CuXfilter,https://github.com/rapidsai/cuxfilter
+10 minutes to cuxfilter Documentation,CuXfilter,https://rapidsai.github.io/cuxfilter/10 minutes to cuxfilter.html
+CuXfilter Documentation,CuXfilter,https://docs.rapids.ai/api/cuxfilter/stable/
+CuXfilter Anaconda Package,CuXfilter,https://anaconda.org/rapidsai-nightly/cuxfilter
+CuXfilter Tutorial RAPIDS Community Showcase,CuXfilter,https://github.com/rapidsai-community/showcase/blob/main/team_contributions/cuxfilter-tutorial/cuxfilter_tutorial.ipynb
+PyCUDA Documentation,PyCUDA,https://documen.tician.de/pycuda/
+PyCUDA Examples GitHub,PyCUDA,https://github.com/minrk/PyCUDA/blob/master/examples/demo.py
+Hugging Face Transformers Documentation,Transformers,https://huggingface.co/docs/transformers/index
+Hugging Face Transformers GitHub Repository,Transformers,https://github.com/huggingface/transformers
+Using Transformers at Hugging Face,Transformers,https://huggingface.co/docs/hub/transformers
+How to make transformers examples use GPU GitHub Issue,Transformers,https://github.com/huggingface/transformers/issues/2704
+Hugging Face Transformers Leverage Open-Source AI in Python,Transformers,https://realpython.com/huggingface-transformers/
+Getting Started with Hugging Face Transformers,Transformers,https://mljourney.com/getting-started-with-hugging-face-transformers/
+Transformers Quickstart Guide,Transformers,https://huggingface.co/docs/transformers/en/quicktour
+Using Hugging Face Transformers with PyTorch and TensorFlow,Transformers,https://www.kdnuggets.com/using-hugging-face-transformers-with-pytorch-and-tensorflow
+GPU Optimization for Transformers,Transformers,https://huggingface.co/docs/transformers/perf_infer_gpu_one
+Transformers Installation Guide,Transformers,https://huggingface.co/docs/transformers/en/installation
+CUDA Learning Repository rkinas,CUDA,https://github.com/rkinas/cuda-learning
+NVIDIA DeepLearningExamples Repository,CUDA,https://github.com/NVIDIA/DeepLearningExamples
+CUDA Topics on GitHub,CUDA,https://github.com/topics/cuda
+Learn CUDA Programming Packt Book Repository,CUDA,https://github.com/PacktPublishing/Learn-CUDA-Programming
+CUDA Programming Topics on GitHub,CUDA,https://github.com/topics/cuda-programming?l=cuda
+CUDA and Applications to Task-based Programming,CUDA,https://cuda-tutorial.github.io/
+Tutorial CUDA Kernels CS236781 Deep Learning,CUDA,https://vistalab-technion.github.io/cs236781/semesters/w1920/tutorials/tutorial_10/
+CUDA Tutorial puttsk GitHub Repository,CUDA,https://github.com/puttsk/cuda-tutorial
+NVIDIA CUDA Samples Repository,CUDA,https://github.com/NVIDIA/cuda-samples
+NLP and Text Processing with RAPIDS,NLP,https://developer.nvidia.com/blog/nlp-and-text-precessing-with-rapids-now-simpler-and-faster/
+Performance Evaluation and Benchmarking of Modern GPU Architectures,Benchmarks,https://www.researchgate.net/publication/305637400_Performance_Evaluation_and_Benchmarking_of_Modern_GPU_Architectures
+A Taste of Scientific Computing on the GPU-Accelerated Edge Device,Scientific Computing,https://www.researchgate.net/publication/347824334_A_Taste_of_Scientific_Computing_on_the_GPU-Accelerated_Edge_Device
+GPU Accelerated Scientific Computing Evaluation NVIDIA Fermi Architecture,Scientific Computing,https://www.researchgate.net/publication/46390957_GPU_Accelerated_Scientific_Computing_Evaluation_of_the_NVIDIA_Fermi_Architecture_Elementary_Kernels_and_Linear_Solvers
+GPU Computing Princeton Research Computing,Scientific Computing,https://researchcomputing.princeton.edu/support/knowledge-base/gpu-computing
+An Introduction to Using GPUs for Computation,Scientific Computing,https://www.stat.berkeley.edu/~scf/paciorek-gpuWorkshop.html
+NVIDIA Deep Learning Performance Documentation,Deep Learning,https://docs.nvidia.com/deeplearning/performance/index.html
+Deep Learning Frameworks NVIDIA Developer,Deep Learning,https://developer.nvidia.com/deep-learning-frameworks
+Best Practices NVIDIA Deep Learning NeMo Documentation,Deep Learning,https://docs.nvidia.com/deeplearning/nemo/best-practices/index.html
+Containers For Deep Learning Frameworks User Guide,Deep Learning,https://docs.nvidia.com/deeplearning/frameworks/user-guide/index.html
+Deep Learning NVIDIA Developer,Deep Learning,https://developer.nvidia.com/deep-learning
+Best Practices for Building and Deploying Recommender Systems,Deep Learning,https://docs.nvidia.com/deeplearning/performance/recsys-best-practices/index.html
+NVIDIA Optimized Frameworks Documentation,Deep Learning,https://docs.nvidia.com/deeplearning/frameworks/index.html
+Deep Learning Examples NVIDIA Developer,Deep Learning,https://developer.nvidia.com/deep-learning-examples
+NVIDIA Research Publications,Research,https://research.nvidia.com/publications
+What Is XGBoost and Why Does It Matter NVIDIA Glossary,XGBoost,https://www.nvidia.com/en-us/glossary/xgboost/
+XGBoost GPU Support Documentation,XGBoost,https://xgboost.readthedocs.io/en/stable/gpu/index.html
+Optimizing Machine Learning with XGBoost Strategies for High Performance,XGBoost,https://www.numberanalytics.com/blog/optimizing-ml-with-xgboost-strategies
+A Guide of XGBoost with GPU Kaggle,XGBoost,https://www.kaggle.com/couyang/a-guide-of-xgboost-with-gpu
+GPU Dedicated Server for XGBoost,XGBoost,https://www.gpu-mart.com/gpu-xgboost
+Implement XGBoost in Python IBM Developer,XGBoost,https://developer.ibm.com/tutorials/awb-implement-xgboost-in-python/
+Learn XGBoost in Python Step-by-Step Tutorial DataCamp,XGBoost,https://www.datacamp.com/tutorial/xgboost-in-python
+XGBoost GPU Support v0.81 Documentation,XGBoost,https://xgboost.readthedocs.io/en/release_0.81/gpu/index.html
+XGBoost GPU benchmarks GitHub Issue,XGBoost,https://github.com/Azure/fast_retraining/issues/62
+Writing CUDA-Python with Numba Documentation,Numba,https://numba.pydata.org/numba-doc/0.13/CUDAJit.html
+Introduction to Numba CUDA Programming,Numba,https://nyu-cds.github.io/python-numba/05-cuda/
+How to use Numba CUDA JIT decorator Stack Overflow,Numba,https://stackoverflow.com/questions/78162405/how-to-use-numba-cuda-jit-decorator
+Numba for CUDA GPUs Documentation,Numba,https://numba.pydata.org/numba-doc/dev/cuda/index.html
+Introduction to CUDA Python with Numba Kaggle,Numba,https://www.kaggle.com/code/harshwalia/1-introduction-to-cuda-python-with-numba
+A 5 minute guide to Numba,Numba,https://numba.readthedocs.io/en/stable/user/5minguide.html
+Numba Examples Documentation,Numba,https://numba.readthedocs.io/en/stable/cuda/examples.html
+Numba for CUDA Programmers GitHub PDF,Numba,https://raw.githubusercontent.com/numba/nvidia-cuda-tutorial/main/numba-for-cuda-programmers-complete.pdf
+CuPy Array Library for GPU,CuPy,https://cupy.dev/
+CuPy Documentation,CuPy,https://docs.cupy.dev/en/stable/
+CuPy GitHub Repository,CuPy,https://github.com/cupy/cupy
+CuPy Tutorial,CuPy,https://docs.cupy.dev/en/stable/user_guide/basic.html
+JAX GPU Documentation,JAX,https://jax.readthedocs.io/en/latest/gpu_memory_allocation.html
+JAX GitHub Repository,JAX,https://github.com/google/jax
