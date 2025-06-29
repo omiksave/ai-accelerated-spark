@@ -7,7 +7,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) system specifically designe
 
 <sup>1</sup> Developer, School of Electrical, Computer and Energy Engineering, Arizona State University  
 <sup>2</sup> Developer, School for Engineering of Matter, Transport, and Energy, Arizona State University
-<sup>2</sup> Content Manager, W. P. Carey School of Business, Arizona State University
+<sup>3</sup> Content Manager, W. P. Carey School of Business, Arizona State University
 
 ## 🚀 Features
 
