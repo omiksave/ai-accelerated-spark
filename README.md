@@ -42,7 +42,7 @@ A comprehensive Retrieval-Augmented Generation (RAG) system specifically designe
 |---------------|-------------|
 | [`README.md`](./README.md) | You're here! This file describes the project, components, and how to get started. |
 | [`rag_self_corrective.ipynb`](./rag_self_corrective.ipynb) | 🔧 **Main Jupyter Notebook** – Core implementation of the RAG-based chat interface with self-reflection and answer validation. |
-| [`rag_self_corrective.ipynb`](./rag_self_corrective.ipynb) | 🔧 First implementation comparing LLama3 8B base model and RAG-based model. |
+| [`rag_compare_models_naive_rag_vs_base_model.ipynb`](./rag_compare_models_naive_rag_vs_base_model.ipynb) | 🔧 First implementation comparing LLama3 8B base model and RAG-based model. |
 | [`requirements.txt`](./requirements.txt) | 📦 Python dependencies required to run the notebook and supporting code. |
 | [`gpu_data_science_urls.txt`](./gpu_data_science_urls.txt) | 🌐 List of curated URLs used as the knowledge base for retrieval (GPU and data science related). |
 | [`resources/`](./resources/) | 📚 Supplementary files, documents, and articles used for building or augmenting the knowledge base. |
